@@ -18,6 +18,7 @@ end
 and give us back the info in array
 
 MinMAx=1
+
 C=[[-1, 1, 6, -1]]
 
 A=[[4, 1, 2, 3], 
