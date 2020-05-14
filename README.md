@@ -1,4 +1,5 @@
-# linear-problem
+# Parser-linear-problem
+It is a small parser.
 Take a linear problem and give us back the info as arrays
 
 You insert into the programm a file as LP02.LTX 
